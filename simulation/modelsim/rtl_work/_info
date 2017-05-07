@@ -1,0 +1,265 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\KoheiYamamoto\Desktop\KoheiYamamoto-FPGA\M-CPU-Fin\simulation\modelsim
+valu
+Ii`BG3d_6[L?]a]Nz6VLKG1
+VI9:BD]SnNE1DO`TXgmjfh1
+Z1 dC:\Users\KoheiYamamoto\Desktop\KoheiYamamoto-FPGA\M-CPU-Fin\simulation\modelsim
+w1464068490
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/alu.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/alu.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin -O0
+!i10b 1
+!s100 aRaQ1eP?DF3KmOdoW_W3]3
+!s85 0
+!s108 1465341628.651000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/alu.v|
+!s101 -O0
+vcount16rle
+IgLj1f[4AIdlVHEE`EQaM@2
+V>EoMnC4oB7<g]K4>:O@c62
+R1
+w1465229900
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/count16rle.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/count16rle.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 21aG@S>J1]Cimbm]UI@T03
+!s85 0
+!s108 1465341624.432000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/count16rle.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/count16rle.v|
+!s101 -O0
+vcpu
+IjdcReFW_1@Oh@O>oa8M;62
+V=c[l`A_OeH];IbQOYQz_b1
+R1
+w1465231588
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cpu.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cpu.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 UZ6VPA76DjenLo9cZj95I2
+!s85 0
+!s108 1465341625.010000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cpu.v|
+!s101 -O0
+vcpu_tb
+!i10b 1
+!s100 =zPMzHhfWGe3Pm?nkam7>3
+IM7Vn37kMYR9F42g15WM5f2
+V0P>[JOo>6KEkgKO=1CbUG0
+R1
+w1463803934
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cpu2_tb.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cpu2_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1465341630.383000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cpu2_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cpu2_tb.v|
+!s101 -O0
+R3
+R4
+vcputop
+I>:5Vc75VThG^X0Ln_dWUD3
+VK76?z6=W;0[b7V300[KRA3
+R1
+Z5 w1462947684
+Z6 8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cputop.v
+Z7 FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cputop.v
+L0 1
+R2
+r1
+31
+Z8 !s108 1465341627.838000
+Z9 !s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cputop.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/cputop.v|
+R3
+R4
+!i10b 1
+!s100 So1[Igdo8jYo=jf@aTiQA1
+!s85 0
+!s101 -O0
+vdmem
+IkAEh8^B1aVjG51HcU`oa`1
+VLIHHaC8a:Io7:Ja3NOR?e1
+R1
+w1463546756
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/dmem.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/dmem.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 dJ^a48;Kjj0Ym`h8R^KOH3
+!s85 0
+!s108 1465341629.804000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/dmem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/dmem.v|
+!s101 -O0
+vimem
+I3f<927TdOdXRoz];]@>]k3
+VWkDk8MNdbR778P;le=<[m2
+R1
+w1463912638
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/imem.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/imem.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 jHQ^S@?mFkG`6lhankWXd1
+!s85 0
+!s108 1465341629.231000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/imem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/imem.v|
+!s101 -O0
+vmuxreg16
+I3d;anib<hdSzB:zB8RkE52
+V^EQicNgM>:=@7UR1HC1zN0
+R1
+w1462947646
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/muxreg16.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/muxreg16.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 CZm<1RJG0UfY:N]XO<Z?Z2
+!s85 0
+!s108 1465341627.276000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/muxreg16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/muxreg16.v|
+!s101 -O0
+vreg16
+I3j>E]n[Tz78V;_g6`>^Wh2
+VhTP2?f?jg3olV4;:^Z6O:0
+R1
+w1462947636
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/reg16.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/reg16.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 o7>fb:TSL5HIMXaal<WhG0
+!s85 0
+!s108 1465341626.713000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/reg16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/reg16.v|
+!s101 -O0
+vregfile
+IEXhY<Gee9WAdQnfA8IFlm2
+Vz?m7^21DYOeEQ[jE4SDB91
+R1
+w1462947624
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/regfile.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/regfile.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 bORn^@^>a8oO[FAWPKWiP1
+!s85 0
+!s108 1465341625.588000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/regfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/regfile.v|
+!s101 -O0
+vsevenseg
+IXMzIHKPPD3B2ZFJiQU8OG0
+VY^XDA<0CYbDIXlH68GMbZ2
+R1
+R5
+R6
+R7
+L0 98
+R2
+r1
+31
+R8
+R9
+R10
+R3
+R4
+!i10b 1
+!s100 [;J]>0]HJcoZ;3<UIoPYd1
+!s85 0
+!s101 -O0
+vsm
+IEUj2>hd2:>VZ?m;k_R1I=2
+V;nnLM4I<[^k1X<4[zS:IR3
+R1
+w1465229932
+8C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/sm.v
+FC:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/sm.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 IJ6DHoO_>J<D9<6[n=AZY0
+!s85 0
+!s108 1465341626.151000
+!s107 C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/sm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin|C:/Users/KoheiYamamoto/Desktop/KoheiYamamoto-FPGA/M-CPU-Fin/sm.v|
+!s101 -O0
+vsound
+I6f1>ECS7U]`Y_EifJUT590
+V:K35G7Y?F0TYIhPz5ld?U2
+R1
+R5
+R6
+R7
+L0 231
+R2
+r1
+31
+R8
+R9
+R10
+R3
+R4
+!i10b 1
+!s100 2^Z^hXQ94]d697a^C_7g11
+!s85 0
+!s101 -O0
